@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *hà hải long*
-* ID: *bi12-256*
+* Name: *Hà Hải Long*
+* ID: *BI12-256*
 * Group ID: *Your Group ID here*
 
